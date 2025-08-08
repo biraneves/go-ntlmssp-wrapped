@@ -1,4 +1,4 @@
-module ic-go-ntlmssp
+module github.com/biraneves/go-ntlmssp-wrapped
 
 go 1.23.0
 
